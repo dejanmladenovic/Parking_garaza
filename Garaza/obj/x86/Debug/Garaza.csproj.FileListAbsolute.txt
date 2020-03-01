@@ -1,0 +1,182 @@
+C:\Users\mlade\Desktop\Prodavnica - II deo\Prodavnica\bin\Debug\Garaza.exe.config
+C:\Users\mlade\Desktop\Prodavnica - II deo\Prodavnica\bin\Debug\Garaza.exe
+C:\Users\mlade\Desktop\Prodavnica - II deo\Prodavnica\bin\Debug\Garaza.pdb
+C:\Users\mlade\Desktop\Prodavnica - II deo\Prodavnica\bin\Debug\FluentNHibernate.dll
+C:\Users\mlade\Desktop\Prodavnica - II deo\Prodavnica\bin\Debug\Iesi.Collections.dll
+C:\Users\mlade\Desktop\Prodavnica - II deo\Prodavnica\bin\Debug\NHibernate.dll
+C:\Users\mlade\Desktop\Prodavnica - II deo\Prodavnica\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\mlade\Desktop\Prodavnica - II deo\Prodavnica\bin\Debug\FluentNHibernate.pdb
+C:\Users\mlade\Desktop\Prodavnica - II deo\Prodavnica\bin\Debug\FluentNHibernate.xml
+C:\Users\mlade\Desktop\Prodavnica - II deo\Prodavnica\bin\Debug\Iesi.Collections.xml
+C:\Users\mlade\Desktop\Prodavnica - II deo\Prodavnica\bin\Debug\NHibernate.xml
+C:\Users\mlade\Desktop\Prodavnica - II deo\Prodavnica\obj\x86\Debug\Garaza.Form1.resources
+C:\Users\mlade\Desktop\Prodavnica - II deo\Prodavnica\obj\x86\Debug\Garaza.Properties.Resources.resources
+C:\Users\mlade\Desktop\Prodavnica - II deo\Prodavnica\obj\x86\Debug\Garaza.csproj.GenerateResource.cache
+C:\Users\mlade\Desktop\Prodavnica - II deo\Prodavnica\obj\x86\Debug\Garaza.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Desktop\Prodavnica - II deo\Prodavnica\obj\x86\Debug\Garaza.csproj.CopyComplete
+C:\Users\mlade\Desktop\Prodavnica - II deo\Prodavnica\obj\x86\Debug\Garaza.exe
+C:\Users\mlade\Desktop\Prodavnica - II deo\Prodavnica\obj\x86\Debug\Garaza.pdb
+C:\Users\mlade\Desktop\Prodavnica - II deo\Prodavnica\obj\x86\Debug\Garaza.csprojAssemblyReference.cache
+C:\Users\Killer\Desktop\fax\III godina\VI semestar\sistemi baza podataka\projekat\Garaza\Garaza\Prodavnica\bin\Debug\Garaza.exe.config
+C:\Users\Killer\Desktop\fax\III godina\VI semestar\sistemi baza podataka\projekat\Garaza\Garaza\Prodavnica\bin\Debug\Garaza.exe
+C:\Users\Killer\Desktop\fax\III godina\VI semestar\sistemi baza podataka\projekat\Garaza\Garaza\Prodavnica\bin\Debug\Garaza.pdb
+C:\Users\Killer\Desktop\fax\III godina\VI semestar\sistemi baza podataka\projekat\Garaza\Garaza\Prodavnica\bin\Debug\FluentNHibernate.dll
+C:\Users\Killer\Desktop\fax\III godina\VI semestar\sistemi baza podataka\projekat\Garaza\Garaza\Prodavnica\bin\Debug\Iesi.Collections.dll
+C:\Users\Killer\Desktop\fax\III godina\VI semestar\sistemi baza podataka\projekat\Garaza\Garaza\Prodavnica\bin\Debug\NHibernate.dll
+C:\Users\Killer\Desktop\fax\III godina\VI semestar\sistemi baza podataka\projekat\Garaza\Garaza\Prodavnica\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Killer\Desktop\fax\III godina\VI semestar\sistemi baza podataka\projekat\Garaza\Garaza\Prodavnica\bin\Debug\FluentNHibernate.pdb
+C:\Users\Killer\Desktop\fax\III godina\VI semestar\sistemi baza podataka\projekat\Garaza\Garaza\Prodavnica\bin\Debug\FluentNHibernate.xml
+C:\Users\Killer\Desktop\fax\III godina\VI semestar\sistemi baza podataka\projekat\Garaza\Garaza\Prodavnica\bin\Debug\Iesi.Collections.xml
+C:\Users\Killer\Desktop\fax\III godina\VI semestar\sistemi baza podataka\projekat\Garaza\Garaza\Prodavnica\bin\Debug\NHibernate.xml
+C:\Users\Killer\Desktop\fax\III godina\VI semestar\sistemi baza podataka\projekat\Garaza\Garaza\Prodavnica\obj\x86\Debug\Garaza.csprojResolveAssemblyReference.cache
+C:\Users\Killer\Desktop\fax\III godina\VI semestar\sistemi baza podataka\projekat\Garaza\Garaza\Prodavnica\obj\x86\Debug\Garaza.Form1.resources
+C:\Users\Killer\Desktop\fax\III godina\VI semestar\sistemi baza podataka\projekat\Garaza\Garaza\Prodavnica\obj\x86\Debug\Garaza.Properties.Resources.resources
+C:\Users\Killer\Desktop\fax\III godina\VI semestar\sistemi baza podataka\projekat\Garaza\Garaza\Prodavnica\obj\x86\Debug\Garaza.csproj.GenerateResource.Cache
+C:\Users\Killer\Desktop\fax\III godina\VI semestar\sistemi baza podataka\projekat\Garaza\Garaza\Prodavnica\obj\x86\Debug\Garaza.csproj.CoreCompileInputs.cache
+C:\Users\Killer\Desktop\fax\III godina\VI semestar\sistemi baza podataka\projekat\Garaza\Garaza\Prodavnica\obj\x86\Debug\Garaza.exe
+C:\Users\Killer\Desktop\fax\III godina\VI semestar\sistemi baza podataka\projekat\Garaza\Garaza\Prodavnica\obj\x86\Debug\Garaza.pdb
+C:\Users\Jovan\Desktop\Garaza\Garaza\bin\Debug\Garaza.exe.config
+C:\Users\Jovan\Desktop\Garaza\Garaza\bin\Debug\Garaza.exe
+C:\Users\Jovan\Desktop\Garaza\Garaza\bin\Debug\Garaza.pdb
+C:\Users\Jovan\Desktop\Garaza\Garaza\bin\Debug\FluentNHibernate.dll
+C:\Users\Jovan\Desktop\Garaza\Garaza\bin\Debug\Iesi.Collections.dll
+C:\Users\Jovan\Desktop\Garaza\Garaza\bin\Debug\NHibernate.dll
+C:\Users\Jovan\Desktop\Garaza\Garaza\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Jovan\Desktop\Garaza\Garaza\bin\Debug\FluentNHibernate.pdb
+C:\Users\Jovan\Desktop\Garaza\Garaza\bin\Debug\FluentNHibernate.xml
+C:\Users\Jovan\Desktop\Garaza\Garaza\bin\Debug\Iesi.Collections.xml
+C:\Users\Jovan\Desktop\Garaza\Garaza\bin\Debug\NHibernate.xml
+C:\Users\Jovan\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.csprojAssemblyReference.cache
+C:\Users\Jovan\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.Form1.resources
+C:\Users\Jovan\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.Form2.resources
+C:\Users\Jovan\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.Properties.Resources.resources
+C:\Users\Jovan\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.csproj.GenerateResource.cache
+C:\Users\Jovan\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.csproj.CoreCompileInputs.cache
+C:\Users\Jovan\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.csproj.CopyComplete
+C:\Users\Jovan\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.exe
+C:\Users\Jovan\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.pdb
+C:\Users\mlade\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.csprojAssemblyReference.cache
+C:\Users\mlade\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.Glavna.resources
+C:\Users\mlade\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.Properties.Resources.resources
+C:\Users\mlade\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.csproj.GenerateResource.cache
+C:\Users\mlade\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.pdb
+C:\Users\mlade\Desktop\Garaza\Garaza\bin\Debug\Garaza.pdb
+C:\Users\mlade\Desktop\Garaza\Garaza\bin\Debug\FluentNHibernate.dll
+C:\Users\mlade\Desktop\Garaza\Garaza\bin\Debug\Iesi.Collections.dll
+C:\Users\mlade\Desktop\Garaza\Garaza\bin\Debug\NHibernate.dll
+C:\Users\mlade\Desktop\Garaza\Garaza\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\mlade\Desktop\Garaza\Garaza\bin\Debug\FluentNHibernate.xml
+C:\Users\mlade\Desktop\Garaza\Garaza\bin\Debug\Iesi.Collections.xml
+C:\Users\mlade\Desktop\Garaza\Garaza\bin\Debug\NHibernate.xml
+C:\Users\mlade\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.csproj.CopyComplete
+C:\Users\mlade\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.CustomComponents.ParkingButton.resources
+C:\Users\mlade\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.PojedinacnaKaricaForma.resources
+C:\Users\mlade\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.IzdavanjePretplatneKartice.resources
+C:\Users\mlade\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.IzmenaPojedKartice.resources
+C:\Users\mlade\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.OrganizovanjeNedelje.resources
+C:\Users\mlade\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.ParkiranjePretplatneKartice.resources
+C:\Users\mlade\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.NapustanjePretplatneKartice.resources
+C:\Users\mlade\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.IzmenaPodatakaOKartici.resources
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\bin\Debug\Garaza.dll.config
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\bin\Debug\Garaza.dll
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\bin\Debug\Garaza.pdb
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\bin\Debug\FluentNHibernate.dll
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\bin\Debug\Iesi.Collections.dll
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\bin\Debug\NHibernate.dll
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\bin\Debug\FluentNHibernate.xml
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\bin\Debug\Iesi.Collections.xml
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\bin\Debug\NHibernate.xml
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\obj\x86\Debug\Garaza.CustomComponents.ParkingButton.resources
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\obj\x86\Debug\Garaza.Glavna.resources
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\obj\x86\Debug\Garaza.IzdavanjePretplatneKartice.resources
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\obj\x86\Debug\Garaza.IzmenaPodatakaOKartici.resources
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\obj\x86\Debug\Garaza.IzmenaPojedKartice.resources
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\obj\x86\Debug\Garaza.NapustanjePretplatneKartice.resources
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\obj\x86\Debug\Garaza.OrganizovanjeNedelje.resources
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\obj\x86\Debug\Garaza.ParkiranjePretplatneKartice.resources
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\obj\x86\Debug\Garaza.PojedinacnaKaricaForma.resources
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\obj\x86\Debug\Garaza.Properties.Resources.resources
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\obj\x86\Debug\Garaza.csproj.GenerateResource.cache
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\obj\x86\Debug\Garaza.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\obj\x86\Debug\Garaza.csproj.CopyComplete
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\obj\x86\Debug\Garaza.dll
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\obj\x86\Debug\Garaza.pdb
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\bin\Debug\Antlr3.Runtime.dll
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\bin\Debug\Remotion.Linq.dll
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\bin\Debug\Antlr3.Runtime.xml
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\bin\Debug\Remotion.Linq.xml
+C:\Users\mlade\Desktop\GarazaFixed\Garaza\Garaza\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\mlade\Desktop\Garaza\Garaza\bin\Debug\Garaza.dll.config
+C:\Users\mlade\Desktop\Garaza\Garaza\bin\Debug\Garaza.dll
+C:\Users\mlade\Desktop\Garaza\Garaza\bin\Debug\Antlr3.Runtime.dll
+C:\Users\mlade\Desktop\Garaza\Garaza\bin\Debug\Remotion.Linq.dll
+C:\Users\mlade\Desktop\Garaza\Garaza\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\mlade\Desktop\Garaza\Garaza\bin\Debug\Antlr3.Runtime.xml
+C:\Users\mlade\Desktop\Garaza\Garaza\bin\Debug\Remotion.Linq.xml
+C:\Users\mlade\Desktop\Garaza\Garaza\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\mlade\Desktop\Garaza\Garaza\obj\x86\Debug\Garaza.dll
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\bin\Debug\Garaza.dll.config
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\bin\Debug\Garaza.dll
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\bin\Debug\Garaza.pdb
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\bin\Debug\Antlr3.Runtime.dll
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\bin\Debug\FluentNHibernate.dll
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\bin\Debug\Iesi.Collections.dll
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\bin\Debug\NHibernate.dll
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\bin\Debug\Remotion.Linq.dll
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\bin\Debug\Remotion.Linq.EagerFetching.dll
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\bin\Debug\Antlr3.Runtime.xml
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\bin\Debug\FluentNHibernate.xml
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\bin\Debug\Iesi.Collections.xml
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\bin\Debug\NHibernate.xml
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\bin\Debug\Remotion.Linq.xml
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\bin\Debug\Remotion.Linq.EagerFetching.xml
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\obj\x86\Debug\Garaza.csprojResolveAssemblyReference.cache
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\obj\x86\Debug\Garaza.CustomComponents.ParkingButton.resources
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\obj\x86\Debug\Garaza.Glavna.resources
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\obj\x86\Debug\Garaza.IzdavanjePretplatneKartice.resources
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\obj\x86\Debug\Garaza.IzmenaPodatakaOKartici.resources
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\obj\x86\Debug\Garaza.IzmenaPojedKartice.resources
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\obj\x86\Debug\Garaza.NapustanjePretplatneKartice.resources
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\obj\x86\Debug\Garaza.OrganizovanjeNedelje.resources
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\obj\x86\Debug\Garaza.ParkiranjePretplatneKartice.resources
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\obj\x86\Debug\Garaza.PojedinacnaKaricaForma.resources
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\obj\x86\Debug\Garaza.Properties.Resources.resources
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\obj\x86\Debug\Garaza.csproj.GenerateResource.Cache
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\obj\x86\Debug\Garaza.csproj.CoreCompileInputs.cache
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\obj\x86\Debug\Garaza.dll
+E:\fax\III godina\VI semestar\sistemi baza podataka\IV faza\Garaza (1)\Garaza\obj\x86\Debug\Garaza.pdb
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\bin\Debug\Garaza.dll.config
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\bin\Debug\Garaza.dll
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\bin\Debug\Garaza.pdb
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\bin\Debug\FluentNHibernate.dll
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\bin\Debug\Iesi.Collections.dll
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\bin\Debug\NHibernate.dll
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\bin\Debug\Remotion.Linq.dll
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\bin\Debug\FluentNHibernate.xml
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\bin\Debug\Iesi.Collections.xml
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\bin\Debug\NHibernate.xml
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\bin\Debug\Remotion.Linq.xml
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\obj\x86\Debug\Garaza.csprojAssemblyReference.cache
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\obj\x86\Debug\Garaza.CustomComponents.ParkingButton.resources
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\obj\x86\Debug\Garaza.Glavna.resources
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\obj\x86\Debug\Garaza.IzdavanjePretplatneKartice.resources
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\obj\x86\Debug\Garaza.IzmenaPodatakaOKartici.resources
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\obj\x86\Debug\Garaza.IzmenaPojedKartice.resources
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\obj\x86\Debug\Garaza.NapustanjePretplatneKartice.resources
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\obj\x86\Debug\Garaza.OrganizovanjeNedelje.resources
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\obj\x86\Debug\Garaza.ParkiranjePretplatneKartice.resources
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\obj\x86\Debug\Garaza.PojedinacnaKaricaForma.resources
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\obj\x86\Debug\Garaza.Properties.Resources.resources
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\obj\x86\Debug\Garaza.csproj.GenerateResource.cache
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\obj\x86\Debug\Garaza.csproj.CopyComplete
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\obj\x86\Debug\Garaza.dll
+C:\Users\Dejan\Desktop\za git za cv\sistemi baya podataka\Garaza\Garaza\obj\x86\Debug\Garaza.pdb

@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C73AA318-950C-4CF9-8EE8-83949B306FC2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Garaza</RootNamespace>
+    <AssemblyName>Garaza</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr3.Runtime, Version=3.5.0.2, Culture=neutral, PublicKeyToken=eb42632606e9261f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Antlr3.Runtime.3.5.1\lib\net40-client\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="FluentNHibernate, Version=2.1.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentNHibernate.2.1.2\lib\net461\FluentNHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=4.0.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Iesi.Collections.4.0.4\lib\net461\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate, Version=5.2.0.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\NHibernate.5.2.5\lib\net461\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.19.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.19.3.0\lib\net40\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="Remotion.Linq, Version=2.2.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Remotion.Linq.2.2.0\lib\net45\Remotion.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="Remotion.Linq.EagerFetching, Version=2.2.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Remotion.Linq.EagerFetching.2.2.0\lib\net45\Remotion.Linq.EagerFetching.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustomComponents\ParkingButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataLayer.cs" />
+    <Compile Include="DataProvider.cs" />
+    <Compile Include="DTOs\KorisnikView.cs" />
+    <Compile Include="DTOs\NedeljaView.cs" />
+    <Compile Include="DTOs\OperaterView.cs" />
+    <Compile Include="DTOs\OsobaView.cs" />
+    <Compile Include="DTOs\ParkingView.cs" />
+    <Compile Include="DTOs\PojedinacnaKarticaView.cs" />
+    <Compile Include="DTOs\PretplatnaKarticaView.cs" />
+    <Compile Include="DTOs\RezervacijaView.cs" />
+    <Compile Include="DTOs\VoziloView.cs" />
+    <Compile Include="Entiteti\Korisnik.cs" />
+    <Compile Include="Entiteti\Nedelja.cs" />
+    <Compile Include="Entiteti\Operater.cs" />
+    <Compile Include="Entiteti\Osoba.cs" />
+    <Compile Include="Entiteti\Parking.cs" />
+    <Compile Include="Entiteti\PojedinacnaKartica.cs" />
+    <Compile Include="Entiteti\PretplatnaKartica.cs" />
+    <Compile Include="Entiteti\Rezervacija.cs" />
+    <Compile Include="Entiteti\Vozilo.cs" />
+    <Compile Include="Glavna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Glavna.Designer.cs">
+      <DependentUpon>Glavna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaces\SelectionForm.cs" />
+    <Compile Include="IzdavanjePretplatneKartice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IzdavanjePretplatneKartice.Designer.cs">
+      <DependentUpon>IzdavanjePretplatneKartice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IzmenaPodatakaOKartici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IzmenaPodatakaOKartici.Designer.cs">
+      <DependentUpon>IzmenaPodatakaOKartici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IzmenaPojedKartice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IzmenaPojedKartice.Designer.cs">
+      <DependentUpon>IzmenaPojedKartice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mapiranja\KorisnikMapiranja.cs" />
+    <Compile Include="Mapiranja\NedeljaMapiranja.cs" />
+    <Compile Include="Mapiranja\OperaterMapiranja.cs" />
+    <Compile Include="Mapiranja\OsobaMapiranja.cs" />
+    <Compile Include="Mapiranja\ParkingMapiranja.cs" />
+    <Compile Include="Mapiranja\PojedinacnaKarticaMapiranja.cs" />
+    <Compile Include="Mapiranja\PretplatnaKarticaMapiranja.cs" />
+    <Compile Include="Mapiranja\RezervacijaMapiranja.cs" />
+    <Compile Include="Mapiranja\VoziloMapiranja.cs" />
+    <Compile Include="NapustanjePretplatneKartice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NapustanjePretplatneKartice.Designer.cs">
+      <DependentUpon>NapustanjePretplatneKartice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrganizovanjeNedelje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrganizovanjeNedelje.Designer.cs">
+      <DependentUpon>OrganizovanjeNedelje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParkiranjePretplatneKartice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParkiranjePretplatneKartice.Designer.cs">
+      <DependentUpon>ParkiranjePretplatneKartice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PojedinacnaKaricaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PojedinacnaKaricaForma.Designer.cs">
+      <DependentUpon>PojedinacnaKaricaForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CustomComponents\ParkingButton.resx">
+      <DependentUpon>ParkingButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Glavna.resx">
+      <DependentUpon>Glavna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IzdavanjePretplatneKartice.resx">
+      <DependentUpon>IzdavanjePretplatneKartice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IzmenaPodatakaOKartici.resx">
+      <DependentUpon>IzmenaPodatakaOKartici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IzmenaPojedKartice.resx">
+      <DependentUpon>IzmenaPojedKartice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NapustanjePretplatneKartice.resx">
+      <DependentUpon>NapustanjePretplatneKartice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrganizovanjeNedelje.resx">
+      <DependentUpon>OrganizovanjeNedelje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParkiranjePretplatneKartice.resx">
+      <DependentUpon>ParkiranjePretplatneKartice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PojedinacnaKaricaForma.resx">
+      <DependentUpon>PojedinacnaKaricaForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
